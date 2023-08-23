@@ -1,1 +1,1 @@
-teste de conflito e aula de git clone
+teste de conflito e aula de git clone/ Cria branch para teste de comandos e aprendizagem de como criar um branch
