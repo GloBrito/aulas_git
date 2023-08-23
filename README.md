@@ -1,1 +1,1 @@
-# aula_git_clone
+# aula_git_clone e resolução de conflitos de git
