@@ -1,1 +1,1 @@
-teste de conflito
+teste de conflito e aula de git clone
