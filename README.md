@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# aula_git_clone
-aula
-=======
-# aula de git clone e resolução de conflitos de git
->>>>>>> 82df17bd54c1b984d4600261b22c4dd5dbd2ff59
+# Aula de git clone e resolução de conflitos de git
+
+
+![octocat-outfit](https://github.com/GloBrito/aula_git_clone/assets/103264347/c5ee31f2-0d1a-40a5-bb6c-aee82b238c30)
